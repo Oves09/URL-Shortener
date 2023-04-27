@@ -1,0 +1,57 @@
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+
+    background-image: url('https://s17233.pcdn.co/blog/wp-content/uploads/2017/08/Q119_Marketing_social_2_0124.png');
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+  
+  
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type=url] {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4CAF50;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #3e8e41;
+}
+
+output {
+  display: block;
+  margin: auto;
+  width: 50%;
+  margin-top: 20px;
+  text-align: center;
+}
